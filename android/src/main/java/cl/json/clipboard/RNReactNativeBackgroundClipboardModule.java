@@ -27,7 +27,7 @@ public class RNReactNativeBackgroundClipboardModule extends ReactContextBaseJava
         }
     };
 
-    public BackgroundClipboardModule(ReactApplicationContext reactContext) {
+    public RNReactNativeBackgroundClipboardModule(ReactApplicationContext reactContext) {
         super(reactContext);
         this.reactContext = reactContext;
 
